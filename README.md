@@ -15,7 +15,11 @@ Welcome to the Fintopio Automation Tool! This colorful and efficient Node.js app
 
 Before you can use this tool, you need to have a Fintopio account. If you don't have one yet, you can register using the following link:
 
-[👉 Register for Fintopio](https://fintop.io/UzJLNvue)
+[👉 Register for Fintopio](https://fintop.io/2uMWijFv5g)
+💎 Let's earn $HOLD together 
+📈 Join me in farming HP points now 
+🫂 Invite more friends for 10% bonus HP 
+💰 Let's get Rich together)
 
 Make sure to complete the registration process and set up your account before proceeding with the setup of this automation tool.
 
@@ -33,7 +37,7 @@ Follow these steps to get the Fintopio Automation Tool up and running:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Galkurta/Fintopio-BOT.git
+   git clone https://github.com/mooe2708/Finto.git
    cd Fintopio-BOT
    ```
 
