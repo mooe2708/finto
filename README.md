@@ -38,7 +38,7 @@ Follow these steps to get the Fintopio Automation Tool up and running:
 
    ```bash
    git clone https://github.com/mooe2708/Finto.git
-   cd Fintopio-BOT
+   cd Finto
    ```
 
 2. **Install dependencies**
